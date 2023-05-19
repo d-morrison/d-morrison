@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Ezra Morrison
+
+I'm an assistant professor of biostatistics at UC Davis: demorrison.ucdavis.edu
 
 <!--
 **d-morrison/d-morrison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Ezra's github stats](https://github-readme-stats.vercel.app/api?username=d-morrison&count_private=true&show_icons=true&theme=graywhite)
