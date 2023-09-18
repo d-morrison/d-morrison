@@ -1,6 +1,6 @@
 ### Hi, I'm Ezra Morrison
 
-I'm an assistant professor of biostatistics at UC Davis: demorrison.ucdavis.edu
+I'm an assistant professor of biostatistics at UC Davis: <https://demorrison.ucdavis.edu/>
 
 <!--
 **d-morrison/d-morrison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
