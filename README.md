@@ -1,6 +1,6 @@
 ### Hi, I'm Ezra Morrison
 
-I'm an assistant professor of computer science at Western Washington University: <https://d-morrison.github.io/>
+I'm an assistant professor of computer science at Western Washington University.
 
 <!--
 **d-morrison/d-morrison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
